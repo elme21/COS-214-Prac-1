@@ -1,3 +1,6 @@
 *.o
 *.out
 engine
+engine.exe
+build_errors.txt
+*.o
